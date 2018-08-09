@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dc0e2e13f48c26ac7840aa4ed54d13f6",
+    "content-hash": "c58c32b49ca13a3c8e38dfd7df36a39c",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -2611,36 +2611,6 @@
             "description": "Symfony DebugBundle",
             "homepage": "https://symfony.com",
             "time": "2018-06-23T12:23:56+00:00"
-        },
-        {
-            "name": "symfony/debug-pack",
-            "version": "v1.0.5",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/debug-pack.git",
-                "reference": "ae4b15596788f9592f67f8615398671bf3f796e4"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug-pack/zipball/ae4b15596788f9592f67f8615398671bf3f796e4",
-                "reference": "ae4b15596788f9592f67f8615398671bf3f796e4",
-                "shasum": ""
-            },
-            "require": {
-                "easycorp/easy-log-handler": "^1.0.2",
-                "php": "^7.0",
-                "symfony/debug-bundle": "^3.3|^4.0",
-                "symfony/monolog-bundle": "^3.0",
-                "symfony/profiler-pack": "^1.0",
-                "symfony/var-dumper": "^3.3|^4.0"
-            },
-            "type": "symfony-pack",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "description": "A debug pack for Symfony projects",
-            "time": "2018-03-29T13:53:44+00:00"
         },
         {
             "name": "symfony/dotenv",
