@@ -22,7 +22,7 @@ class ArticleController extends AbstractController
 {
 
     /**
-     * @Route("/", name="homepage")
+     * @Route("/", name="app_homepage")
      * @param ArticleRepository $repository
      * @return Response
      */
